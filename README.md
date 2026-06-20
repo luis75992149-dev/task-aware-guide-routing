@@ -3,7 +3,7 @@
 Minimal code to reproduce **Setting A** main results from the paper
 *Task-Aware Guide Routing for Frozen Video Question Answering*.
 
-## Reproduce (CPU, ~3–4 min)
+## Reproduce
 
 ```bash
 pip install -r requirements.txt
