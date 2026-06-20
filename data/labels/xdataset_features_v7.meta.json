@@ -1,0 +1,30 @@
+{
+  "n_total": 7028,
+  "n_features": 452,
+  "groups": {
+    "v6_dense_dim": 52,
+    "tfidf_dim": 400
+  },
+  "tfidf_vocab_first20": [
+    "10",
+    "20",
+    "20s",
+    "40",
+    "according",
+    "act",
+    "action",
+    "action did",
+    "actions",
+    "add",
+    "agree",
+    "answer",
+    "answers",
+    "answers question",
+    "answersing",
+    "answersing question",
+    "appear",
+    "appear video",
+    "appearance",
+    "appeared"
+  ]
+}
